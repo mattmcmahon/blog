@@ -1,0 +1,1 @@
+This is now the revised readme file for Blog. remember to use the command jEdit instead of using mate
